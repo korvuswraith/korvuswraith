@@ -30,7 +30,6 @@ At a **B2B SaaS company**, I own the entire security program surface solo:
 - 📋 **Customer Security Questionnaires** — own the entire security questionnaire function. I'm the reason deals close without security blockers.
 - 🗺️ **NIST 800-53 ↔ ISO 27001 Control Mapping** — cross-walked two major frameworks into a unified control narrative. Built it, documented it, own it.
 
-> One person. One program. Full accountability.
 
 ---
 
