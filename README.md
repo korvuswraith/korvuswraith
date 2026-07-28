@@ -1,104 +1,104 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**korvuswraith/korvuswraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Josh 👋
+### Compliance Specialist · GRC Engineer · AI Governance · Aspiring Pentester
 
-Here are some ideas to get you started:
+[![CISSP](https://img.shields.io/badge/CISSP-Active-0052CC?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org/)
+[![ISO 42001](https://img.shields.io/badge/ISO_42001-Lead_Auditor-006400?style=flat-square)](https://www.iso.org/)
+[![ISO 27701](https://img.shields.io/badge/ISO_27701-Lead_Auditor-006400?style=flat-square)](https://www.iso.org/)
+[![Open to Work](https://img.shields.io/badge/Open_to-GRC_%26_Technical_Roles-blueviolet?style=flat-square)](https://linkedin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Josh 
-
-> *Compliance Specialist by day. Fractional security executive in the making. Always building.*
+</div>
 
 ---
 
-## 🧠 About Me
+## 🧠 Who I Am
 
-I'm a cybersecurity and AI governance practitioner with a specialization in GRC, risk, and emerging AI regulation. I hold the **CISSP**, **ISO 42001 Lead Auditor**, and **ISO 27701 Lead Auditor** certifications — and I put them to work every day.
+I'm a **Compliance Specialist** with sole ownership of an enterprise security program at a B2B SaaS company — and a hobbyist with a red team mindset. My career sits at the intersection of **governance, risk, and compliance** and the **technical realities of modern security engineering**. I don't just write policies — I understand the attack surface behind them.
 
-At my W2, I own the full **ISO 27001:2022 ISMS**, **SOC 2 Type II** audit readiness program, AI governance documentation, and customer security questionnaire process at a B2B SaaS company. Outside of that, I run **TobaSec LLC** — a cybersecurity and AI governance consulting firm focused on helping organizations get ahead of AI risk before regulators make it mandatory.
+CISSP. Dual ISO Lead Auditor. Currently expanding into AI Security Engineering and LLM red-teaming because the future of GRC isn't paperwork, it's code.
 
 ---
 
-## 🏢 TobaSec LLC
+## 💼 What I Do (Day Job)
 
-> *AI Governance & Cybersecurity Consulting | SAM.gov Registered | CAGE Code Holder*
+At a **B2B SaaS company**, I own the entire security program surface solo:
 
-TobaSec specializes in:
+- 🏛️ **ISO 27001:2022 ISMS** — full program ownership, not just documentation. Policies, controls, risk treatment, internal audits, the whole stack.
+- 🔍 **SOC 2 Type II** — end-to-end audit readiness. Evidence collection, control mapping, auditor liaison.
+- 🤖 **AI Governance** — built the company's AI governance documentation from scratch, covering model risk, acceptable use, and agentic system deployment risk.
+- 📋 **Customer Security Questionnaires** — own the entire security questionnaire function. I'm the reason deals close without security blockers.
+- 🗺️ **NIST 800-53 ↔ ISO 27001 Control Mapping** — cross-walked two major frameworks into a unified control narrative. Built it, documented it, own it.
 
-- 🤖 **AI Governance Readiness Assessments** — operationalizing NIST AI RMF, ISO 42001, and EU AI Act compliance for organizations deploying AI
-- 🔐 **Fractional vCISO Services** — retained security program ownership, not just point-in-time assessments
-- 📋 **GRC Program Build-Outs** — ISO 27001, SOC 2, and CMMC framework implementation
-- 🧾 **Security Questionnaire Management** — B2B SaaS customer trust and vendor risk support
+> One person. One program. Full accountability.
+
+---
+
+## 🛡️ Certifications
+
+| Credential | Body | Status |
+|---|---|---|
+| **CISSP** | ISC² | ✅ Active |
+| **ISO 42001 Lead Auditor** | ISO | ✅ Active — one of very few holders globally |
+| **ISO 27701 Lead Auditor** | ISO | ✅ Active |
+
+The **ISO 42001 Lead Auditor** is a deliberate play. AI governance is a nascent field with almost no certified practitioners. I got in early.
 
 ---
 
 ## 🔬 Currently Building
 
 ```
-🧪 AI Security Engineer Lab Curriculum (11 labs)
-   ├── LLM Red-Teaming & Prompt Injection
-   ├── CI/CD Pipeline Security
-   ├── Agentic System Architecture Risk
-   └── AWS Free Tier + Ollama Lab Environment
+🧪 AI Security Engineer Lab Curriculum (11 Labs)
+   ├── 🔴 LLM Red-Teaming & Prompt Injection Attacks
+   ├── 🔗 CI/CD Pipeline Security & Secrets Management
+   ├── 🤖 Agentic System Architecture Risk Assessment
+   ├── ☁️  AWS Free Tier Cloud Security Labs
+   └── 🦙 Ollama Local LLM Attack Surface Analysis
 ```
 
-Each lab maps directly to a **TobaSec service deliverable**. This isn't just learning — it's R&D.
 
 ---
 
-## 🛡️ Certifications
-
-| Credential | Status |
-|---|---|
-| CISSP | ✅ Active |
-| ISO 42001 Lead Auditor | ✅ Active |
-| ISO 27701 Lead Auditor | ✅ Active |
-
----
-
-## 📊 Domain Expertise
+## 📊 Technical Depth
 
 ```
-GRC & Compliance          ████████████████████  Expert
-AI Governance             ███████████████████░  Advanced
-ISO 27001 / SOC 2         ████████████████████  Expert
-Security Questionnaires   ████████████████████  Expert
-Penetration Testing       ████████████░░░░░░░░  Intermediate (hobbyist)
-AI Security Engineering   ███████████░░░░░░░░░  Building ↑
+ISO 27001 / SOC 2 / NIST   ████████████████████  ⚡ Expert
+AI Governance (42001/RMF)  ███████████████████░  ⚡ Advanced
+Security Questionnaires    ████████████████████  ⚡ Expert
+GRC Program Ownership      ████████████████████  ⚡ Expert
+Privacy (27701 / GDPR)     ████████████████░░░░  Proficient
+Penetration Testing        ████████████░░░░░░░░  Intermediate 🔧
+LLM Red-Teaming            ██████████░░░░░░░░░░  Building ↑
+CI/CD Security             ████████░░░░░░░░░░░░  Building ↑
+AD Attacks / Cloud IMDS    ███████░░░░░░░░░░░░░  Active Gap → Closing
 ```
 
 ---
 
-## 🌐 Content & Community
-
-Beyond the day-to-day, I create content under the **Cosmos and Capital** brand on Instagram and YouTube — covering AI governance, cybersecurity career strategy, and what it actually looks like to build a consulting practice from scratch.
 
 ---
 
-## 📫 Let's Connect
+## 🎯 What I'm Open To
 
-- 🔗 **LinkedIn** — [Find me as Joshua Sitompul](https://linkedin.com)
-- 🏢 **TobaSec** — AI Governance & Cybersecurity Consulting
-- 📧 Reach out for subcontracting, fractional security engagements, or collaboration
+I'm actively interested in roles where **GRC meets technical execution** — not checkbox compliance, but security program ownership with teeth.
 
----
+**Strong fits:**
+- 🏗️ GRC Engineer
+- 🔐 Security Engineer (GRC-adjacent, AI Security)
+- 📐 Compliance Engineer
+- 🧩 AI Security / AI Governance roles
 
-## ⚡ Fun Facts
-
-- 🌏 Spent a month in Vietnam in 2026 — proof that you can run a consulting business from anywhere
-- 📈 Algorithmic trading hobbyist (New York open session only — discipline is a security skill)
-- 💍 Engaged — building toward a first home once the residency match location is set
-- 🕵️ Hobbyist penetration tester — because understanding the offense makes you a better defender
+**What I bring that most GRC candidates don't:**
+A red team mindset. Hands-on lab work in offensive security. And the ability to write a risk treatment plan in the morning and spin up an Ollama instance to probe LLM behavior in the afternoon.
 
 ---
 
-*"Security isn't a checklist. It's a program."*
+
+---
+
+<div align="center">
+
+
+
+</div>
