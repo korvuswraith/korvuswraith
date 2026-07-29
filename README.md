@@ -20,7 +20,7 @@ CISSP. Dual ISO Lead Auditor (42001/27001). Currently expanding into AI Security
 
 ---
 
-## 💼 What I Do (Day Job)
+## 💼 What I Do 
 
 At a **B2B SaaS company**, I support the security program :
 
@@ -35,11 +35,11 @@ At a **B2B SaaS company**, I support the security program :
 
 ## 🛡️ Certifications
 
-| Credential | Body | Status |
-|---|---|---|
-| **CISSP** | ISC² | ✅ Active |
-| **ISO 42001 Lead Auditor** | 
-| **ISO 27001 Lead Auditor** |
+| Credential | Body |
+|---|---|
+| **CISSP** | ISC² | 
+| **ISO 42001 Lead Auditor** | Mastermind Assurance
+| **ISO 27001 Lead Auditor** | Mastermind Assurance
 
 ## 🔬 Currently Building
 
