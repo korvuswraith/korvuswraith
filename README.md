@@ -5,7 +5,7 @@
 
 [![CISSP](https://img.shields.io/badge/CISSP-Active-0052CC?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org/)
 [![ISO 42001](https://img.shields.io/badge/ISO_42001-Lead_Auditor-006400?style=flat-square)](https://www.iso.org/)
-[![ISO 27701](https://img.shields.io/badge/ISO_27701-Lead_Auditor-006400?style=flat-square)](https://www.iso.org/)
+[![ISO 27001](https://img.shields.io/badge/ISO_27701-Lead_Auditor-006400?style=flat-square)](https://www.iso.org/)
 [![Open to Work](https://img.shields.io/badge/Open_to-GRC_%26_Technical_Roles-blueviolet?style=flat-square)](https://linkedin.com)
 
 </div>
