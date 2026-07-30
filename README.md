@@ -46,12 +46,10 @@ At a **B2B SaaS company**, I support the security program :
 ## 🔬 Currently Building
 
 ```
-🧪 AI Security Engineer Lab Curriculum (11 Labs)
-   ├── 🔴 LLM Red-Teaming & Prompt Injection Attacks
-   ├── 🔗 CI/CD Pipeline Security & Secrets Management
-   ├── 🤖 Agentic System Architecture Risk Assessment
-   ├── ☁️  AWS Free Tier Cloud Security Labs
-   └── 🦙 Ollama Local LLM Attack Surface Analysis
+🧪 AI Governance Labs & SaaS Development
+   ├── Korvus - CMDB & Agent Enforcement SaaS
+   ├── Kairos - Fintech SaaS
+   ├── AWS Security Lab
 ```
 ---
 
