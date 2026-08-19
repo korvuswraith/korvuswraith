@@ -16,7 +16,7 @@
 
 ## 🧠 Who I Am
 
-I'm a **Compliance Specialist** with sole ownership of an enterprise security program at a B2B SaaS company — and a hobbyist with a red team mindset. My career sits at the intersection of **governance, risk, and compliance** and the **technical realities of modern security engineering**. I don't just write policies — I understand the attack surface behind them.
+I'm a **Lead GRC Analyst** with sole ownership of an enterprise security program at a B2B SaaS company — and a hobbyist with a red team mindset. My career sits at the intersection of **governance, risk, and compliance** and the **technical realities of modern security engineering**. I don't just write policies — I understand the attack surface behind them.
 
 CISSP. Dual ISO Lead Auditor (42001/27001). Currently expanding into AI Security Engineering and LLM red-teaming because the future of GRC isn't paperwork, it's code.
 
